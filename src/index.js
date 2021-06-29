@@ -1,11 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { AccountsProvider  } from './context/accounts-context';
 import App from './App';
+import './styles/app.scss';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
 	<React.StrictMode>
-		<App />
+		<AccountsProvider>
+			<App />
+		</AccountsProvider>
 	</React.StrictMode>,
 	document.getElementById('root')
 );

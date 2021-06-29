@@ -1,5 +1,12 @@
 # My Bank App
-[description coming soon...]
+A simple bank app concept for a personal banking app to keep track of deposits and withdraws.
+
+To try it, **create a new user** or **log in** *using one of the following test user*:
+| email         | password    |
+|---------------|-------------|
+| jane@me.com   | Access123   |
+| peter@mit.edu | Passcode321 |
+| john@msn.com  | Letmein33   |
 
 ## Available Scripts
 
@@ -37,16 +44,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Checklist
-
-### Notes
-- [ ] App Logo
-
-### Pages
-- [ ] Homepage
-- [ ] Create Account
-- [ ] Withdraw
-- [ ] Deposit
-- [ ] All Data
-- [ ] Login
