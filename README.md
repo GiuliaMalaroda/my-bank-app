@@ -8,6 +8,8 @@ To try it, **create a new user** or **log in** *using one of the following test 
 | peter@mit.edu | Passcode321 |
 | john@msn.com  | Letmein33   |
 
+Live version: [http://giuliamalarodabankingapp.s3-website-us-east-1.amazonaws.com/](http://giuliamalarodabankingapp.s3-website-us-east-1.amazonaws.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
