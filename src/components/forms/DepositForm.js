@@ -47,7 +47,7 @@ const DepositForm = props => {
             MySwal.fire({
                 icon: "success",
                 title: "Success",
-                text: "Deposit successfully added to your balance!",
+                text: "Deposit amount successfully added to your balance!",
                 confirmButtonText: "Ok",
                 customClass: {
                     title: 'text-dark',

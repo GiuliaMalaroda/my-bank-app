@@ -47,7 +47,7 @@ const WithdrawForm = props => {
             MySwal.fire({
                 icon: "success",
                 title: "Success",
-                text: "Deposit successfully added to your balance!",
+                text: "Withdraw amount successfully removed from your balance!",
                 confirmButtonText: "Ok",
                 customClass: {
                     title: 'text-dark',
